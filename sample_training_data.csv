@@ -1,0 +1,91 @@
+text,sentiment,category,date
+"This product exceeded all my expectations! Absolutely love it.",positive,electronics,2024-01-15
+"Fast shipping and excellent quality. Highly recommend!",positive,electronics,2024-01-16
+"Best purchase I've made this year. Worth every penny.",positive,home,2024-01-17
+"Amazing customer service. They went above and beyond.",positive,service,2024-01-18
+"Fantastic quality. Exactly as described in the listing.",positive,clothing,2024-01-19
+"Love it! Will definitely order again soon.",positive,electronics,2024-01-20
+"Excellent product. Very happy with my purchase.",positive,home,2024-01-21
+"Outstanding value for money. Exceeded expectations.",positive,clothing,2024-01-22
+"Brilliant! Just what I was looking for.",positive,electronics,2024-01-23
+"Superb quality and great price. Very satisfied.",positive,home,2024-01-24
+"Terrible quality. Broke after two days of use.",negative,electronics,2024-01-15
+"Very disappointed. Not as advertised at all.",negative,clothing,2024-01-16
+"Worst purchase ever. Complete waste of money.",negative,home,2024-01-17
+"Poor customer service. No one responded to my emails.",negative,service,2024-01-18
+"Cheap materials. Fell apart immediately.",negative,clothing,2024-01-19
+"Do not buy! Completely misleading product description.",negative,electronics,2024-01-20
+"Terrible experience. Would not recommend to anyone.",negative,home,2024-01-21
+"Very poor quality. Extremely disappointed.",negative,clothing,2024-01-22
+"Awful. Nothing like the pictures shown.",negative,electronics,2024-01-23
+"Horrible product. Demanded a refund immediately.",negative,home,2024-01-24
+"It's okay. Does what it's supposed to do.",neutral,electronics,2024-01-15
+"Average quality. Nothing special but functional.",neutral,clothing,2024-01-16
+"Decent for the price. No complaints.",neutral,home,2024-01-17
+"It works fine. Not amazing but acceptable.",neutral,electronics,2024-01-18
+"Fair quality. Met basic expectations.",neutral,clothing,2024-01-19
+"Standard product. Nothing to write home about.",neutral,home,2024-01-20
+"It's alright. Could be better but could be worse.",neutral,electronics,2024-01-21
+"Acceptable quality for the price point.",neutral,clothing,2024-01-22
+"Mediocre. Just average overall.",neutral,home,2024-01-23
+"Okay product. Serves its purpose adequately.",neutral,electronics,2024-01-24
+"Great value! Very pleased with this purchase.",positive,electronics,2024-01-25
+"Excellent build quality. Feels premium.",positive,electronics,2024-01-26
+"Perfect! Exactly what I needed.",positive,home,2024-01-27
+"Really happy with this. Great product!",positive,clothing,2024-01-28
+"Awesome purchase. Would buy again.",positive,electronics,2024-01-29
+"Wonderful product. Highly recommended!",positive,home,2024-01-30
+"Fantastic! Better than expected.",positive,clothing,2024-01-31
+"Top quality. Very impressed.",positive,electronics,2024-02-01
+"Great product at a great price!",positive,home,2024-02-02
+"Absolutely brilliant. Love everything about it.",positive,clothing,2024-02-03
+"Not satisfied. Quality is subpar.",negative,electronics,2024-01-25
+"Disappointing purchase. Expected better quality.",negative,clothing,2024-01-26
+"Waste of money. Very unhappy with this.",negative,home,2024-01-27
+"Poor quality materials. Not durable at all.",negative,electronics,2024-01-28
+"Regret buying this. Should have read reviews.",negative,clothing,2024-01-29
+"Unacceptable quality. Requesting a return.",negative,home,2024-01-30
+"Defective product. Doesn't work as described.",negative,electronics,2024-01-31
+"Very poor. Would not purchase again.",negative,clothing,2024-02-01
+"Unsatisfied with the quality and service.",negative,home,2024-02-02
+"Bad product. Not worth the price.",negative,electronics,2024-02-03
+"It's fine. Nothing exceptional but works.",neutral,electronics,2024-01-25
+"Average product. Gets the job done.",neutral,clothing,2024-01-26
+"Satisfactory. Meets minimum requirements.",neutral,home,2024-01-27
+"Standard quality. As expected.",neutral,electronics,2024-01-28
+"Not bad. Pretty basic though.",neutral,clothing,2024-01-29
+"Reasonable quality for the cost.",neutral,home,2024-01-30
+"Middle of the road. Neither good nor bad.",neutral,electronics,2024-01-31
+"Passable quality. Could be improved.",neutral,clothing,2024-02-01
+"It's serviceable. Nothing more, nothing less.",neutral,home,2024-02-02
+"Adequate. Fulfills basic needs.",neutral,electronics,2024-02-03
+"Incredible product! Best I've ever used.",positive,electronics,2024-02-04
+"Outstanding service and quality!",positive,service,2024-02-05
+"Delighted with my purchase. 5 stars!",positive,home,2024-02-06
+"Perfect fit and excellent quality.",positive,clothing,2024-02-07
+"Thrilled with this purchase!",positive,electronics,2024-02-08
+"Exceptional quality. Highly satisfied.",positive,home,2024-02-09
+"Brilliant product. Couldn't be happier!",positive,clothing,2024-02-10
+"Absolutely perfect. Exactly what I wanted.",positive,electronics,2024-02-11
+"Superior quality. Very impressed!",positive,home,2024-02-12
+"Wonderful! Exceeds all expectations.",positive,clothing,2024-02-13
+"Complete disappointment. Very poor quality.",negative,electronics,2024-02-04
+"Terrible materials. Broke immediately.",negative,clothing,2024-02-05
+"Absolutely awful. Do not purchase.",negative,home,2024-02-06
+"Extremely unhappy. Faulty product.",negative,electronics,2024-02-07
+"Dreadful quality. Total waste.",negative,clothing,2024-02-08
+"Very poor. Not fit for purpose.",negative,home,2024-02-09
+"Shocking quality. Completely useless.",negative,electronics,2024-02-10
+"Appalling. Worst product ever.",negative,clothing,2024-02-11
+"Disgraceful quality. Avoid at all costs.",negative,home,2024-02-12
+"Horrendous. Extremely disappointed.",negative,electronics,2024-02-13
+"Fair enough. Does the basic job.",neutral,electronics,2024-02-04
+"Unremarkable. Pretty standard.",neutral,clothing,2024-02-05
+"Ordinary product. Nothing special.",neutral,home,2024-02-06
+"So-so quality. Average at best.",neutral,electronics,2024-02-07
+"Neither here nor there. Just okay.",neutral,clothing,2024-02-08
+"Common quality. Typical product.",neutral,home,2024-02-09
+"Moderate quality. Acceptable.",neutral,electronics,2024-02-10
+"Run of the mill. Nothing exciting.",neutral,clothing,2024-02-11
+"Plain and simple. Does the job.",neutral,home,2024-02-12
+"Conventional. Meets expectations.",neutral,electronics,2024-02-13

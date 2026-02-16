@@ -1,0 +1,31 @@
+text,customer_id,order_id,product_category,purchase_date
+"Absolutely love this! Best purchase I've made in months.",C1001,ORD5001,electronics,2024-02-14
+"Not impressed. Quality is worse than expected.",C1002,ORD5002,clothing,2024-02-14
+"It's okay. Nothing amazing but it works fine.",C1003,ORD5003,home,2024-02-14
+"Fantastic product! Highly recommend to everyone.",C1004,ORD5004,electronics,2024-02-14
+"Very disappointed with the quality and service.",C1005,ORD5005,clothing,2024-02-14
+"Decent product for the price. No major issues.",C1006,ORD5006,home,2024-02-14
+"Terrible experience. Will not buy again.",C1007,ORD5007,electronics,2024-02-14
+"Pretty good overall. Happy with my choice.",C1008,ORD5008,clothing,2024-02-14
+"Average quality. Nothing to complain about.",C1009,ORD5009,home,2024-02-14
+"Amazing! Exceeded all my expectations.",C1010,ORD5010,electronics,2024-02-14
+"Poor quality materials. Broke within a week.",C1011,ORD5011,clothing,2024-02-15
+"It does the job. Nothing more, nothing less.",C1012,ORD5012,home,2024-02-15
+"Excellent value for money. Very satisfied!",C1013,ORD5013,electronics,2024-02-15
+"Not worth the price. Cheaply made.",C1014,ORD5014,clothing,2024-02-15
+"Acceptable quality. Meets basic needs.",C1015,ORD5015,home,2024-02-15
+"Love it! Perfect fit and great quality.",C1016,ORD5016,clothing,2024-02-15
+"Mediocre at best. Expected better.",C1017,ORD5017,electronics,2024-02-15
+"Brilliant product. Couldn't be happier!",C1018,ORD5018,home,2024-02-15
+"Waste of money. Very unhappy.",C1019,ORD5019,clothing,2024-02-15
+"Standard quality. As advertised.",C1020,ORD5020,electronics,2024-02-15
+"Superb! Best on the market.",C1021,ORD5021,electronics,2024-02-16
+"Horrible. Complete disappointment.",C1022,ORD5022,clothing,2024-02-16
+"Fair enough. Does what it says.",C1023,ORD5023,home,2024-02-16
+"Outstanding quality and service!",C1024,ORD5024,electronics,2024-02-16
+"Dissatisfied. Not as described.",C1025,ORD5025,clothing,2024-02-16
+"It's fine. No issues so far.",C1026,ORD5026,home,2024-02-16
+"Wonderful purchase. Very happy!",C1027,ORD5027,electronics,2024-02-16
+"Substandard quality. Returning it.",C1028,ORD5028,clothing,2024-02-16
+"Ordinary product. Nothing special.",C1029,ORD5029,home,2024-02-16
+"Perfect! Just what I needed.",C1030,ORD5030,electronics,2024-02-16

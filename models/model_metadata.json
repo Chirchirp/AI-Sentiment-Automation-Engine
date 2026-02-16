@@ -1,0 +1,9 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "train_size": 12000,
+  "test_size": 3000,
+  "trained_at": "2026-02-16 21:45:26"
+}
